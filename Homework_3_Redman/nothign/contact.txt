@@ -1,0 +1,40 @@
+Contact # 1
+    Name: sabdsamhbda
+   email: sabnmdsabnmd
+   Phone: 21321321132
+------------------------
+Contact # 2
+    Name: adkjahsk
+   email: adasdsad
+   Phone: 12132132
+------------------------
+Contact # 3
+    Name: dasdadsa
+   email: adasdsads
+   Phone: 1321321231
+------------------------
+Contact # 4
+    Name: sadasdssda
+   email: asdasdsadas
+   Phone: 12313232132
+------------------------
+Contact # 5
+    Name: adsadsadas
+   email: sdadasdasd
+   Phone: 112332
+------------------------
+Contact # 6
+    Name: Henry Jamason
+   email: jamasonthe3rd@gmail.com
+   Phone: 232-423-2121
+------------------------
+Contact # 7
+    Name: test2
+   email: test2
+   Phone: test2
+------------------------
+Contact # 8
+    Name: test
+   email: test3
+   Phone: test4
+------------------------

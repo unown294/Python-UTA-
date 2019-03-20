@@ -1,0 +1,20 @@
+Contact # 1
+    Name: asdsa
+   email: asdsa
+   Phone: asdads
+------------------------
+Contact # 2
+    Name: john
+   email: johntest@test.com
+   Phone: test
+------------------------
+Contact # 3
+    Name: dsa
+   email: asd
+   Phone: ads
+------------------------
+Contact # 4
+    Name: ross
+   email: test@test.com
+   Phone: none
+------------------------
